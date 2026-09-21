@@ -6,11 +6,6 @@
 
 **东南大学 · 电子信息硕士 · 2027届**
 
-![SEU](https://img.shields.io/badge/SEU-2027%E5%B1%8A-f7c948?style=flat)
-![Focus](https://img.shields.io/badge/Focus-AI%20Agent-0969da?style=flat&logo=openai&logoColor=white)
-![Research](https://img.shields.io/badge/Research-Multimodal-8250df?style=flat&logo=pytorch&logoColor=white)
-![Stack](https://img.shields.io/badge/Stack-Python%20%C2%B7%20PyTorch-22c55e?style=flat&logo=python&logoColor=white)
-
 **AI Agent / 多模态理解 / AI应用开发**
 
 **目录：** [研究与实践](#-研究与实践) · [代表项目](#-代表项目) · [技术与关注方向](#-技术与关注方向) · [交流与机会](#-交流与机会)
